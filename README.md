@@ -1,2 +1,3 @@
-# work-ui-weatherapp
-Este proyecto contiene una plantilla HTML/CSS de una app de clima.
+# Work UI Weather App Template
+![Imagen de proyecto](screenshot-ui-weatherapp.png)
+<img src="tech-tag.png" width="60%">
